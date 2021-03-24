@@ -1,4 +1,4 @@
-.walrus-showing{
+#walrus-showing{
   display: none;
 }
 
@@ -9,4 +9,13 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+p{
+  text-align: center;
+}
+
+img{
+  margin-left: 50%;
+  margin-right: 50%;
 }
